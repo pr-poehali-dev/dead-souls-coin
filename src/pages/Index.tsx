@@ -40,7 +40,7 @@ const Index = () => {
                     <div className="relative group">
                       <div className="absolute inset-0 bg-gradient-to-br from-primary/30 to-transparent rounded-full blur-3xl group-hover:blur-2xl transition-all" />
                       <img 
-                        src="https://cdn.poehali.dev/projects/212b4d80-9831-40e4-82e0-26927416d076/files/6f215b26-5525-4d77-ad63-2f65ae65c72e.jpg"
+                        src="https://cdn.poehali.dev/projects/212b4d80-9831-40e4-82e0-26927416d076/files/38226333-36be-4fd6-af93-ccde68d06737.jpg"
                         alt="Аверс монеты"
                         className="relative w-full rounded-full shadow-2xl ring-4 ring-primary/30 hover:ring-primary/50 transition-all"
                       />
